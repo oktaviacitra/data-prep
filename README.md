@@ -11,3 +11,6 @@ This is for Assignment #06-W07-Data Preparation at Bangkit Academy. Check for pr
 
 	Article Source = https://towardsdatascience.com/5-steps-to-correctly-prep-your-data-for-your-machine-learning-model-c06c24762b73
 	
+Contact me further for suggestions and criticism in linkedin
+
+	https://www.linkedin.com/in/oktaviacitraaa/
